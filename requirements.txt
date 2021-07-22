@@ -2,7 +2,7 @@ absl-py
 attrs>=19.1.0
 matplotlib
 numpy
-opencv-contrib-python
+opencv-contrib-python-headless
 protobuf>=3.11.4
 six
 wheel
